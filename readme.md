@@ -1,5 +1,7 @@
 # API Rest com Python e Django Rest Framework
 
+Projeto desenvolvido para estudo do Django Rest Framework através do curso [API Rest com Python e Django Rest Framework](https://cursos.alura.com.br/course/django-rest-framework-construindo-apis-restful-zero) da [Alura](https://www.alura.com.br/).
+
 ## Iniciando o projeto
 
 ### Criando ambiente virtual
@@ -25,3 +27,5 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+
+Desenvolvido por [Rodrigo Abreu](https://github.com/rodrigodabreu)
