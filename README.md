@@ -51,13 +51,24 @@ python manage.py runserver
 ### Estudante
 
 ```
-
+{
+    'id' : 1,
+    'nome': John Doe,
+    'email': john@doe.com.br,
+    'cpf': 01234567890,
+    'data_nascimento': '01/01/1900',
+    'celular': 11999999999
+}
 ```
 
 ### Cursos
 
 ```
-
+{
+    'id',: 1
+    'codigo': 'POO',
+    'descricao': 'Python Orientado a Objetos'
+}
 ```
 
 ## Criando as migrations com base nas models existentes
@@ -73,7 +84,3 @@ python manage.py migrate
 ```
 
 Desenvolvido por [Rodrigo Abreu](https://github.com/rodrigodabreu)
-
-```
-
-```
