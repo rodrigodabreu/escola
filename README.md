@@ -4,6 +4,12 @@ Projeto desenvolvido para estudo do Django Rest Framework através do curso [API
 
 ## Iniciando o projeto
 
+### Stack
+
+- [Python](https://www.python.org/) (3.12.3);
+- [Django](https://www.djangoproject.com/) (5.0);
+- [Django Rest Framework](https://www.django-rest-framework.org/) (3.15.2);
+
 ### Criando ambiente virtual
 
 ```
