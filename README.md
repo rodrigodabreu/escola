@@ -37,17 +37,39 @@ pip freeze > requirements.txt
 ### Instalando dependências
 
 ```
-
 pip install -r requirements.txt
-
 ```
 
 ### Rodando o projeto
 
 ```
-
 python manage.py runserver
+```
 
+## Models
+
+### Estudante
+
+```
+
+```
+
+### Cursos
+
+```
+
+```
+
+## Criando as migrations com base nas models existentes
+
+```
+python manage.py makemigrations
+```
+
+Após precisamos migrar com o comando:
+
+```
+python manage.py migrate
 ```
 
 Desenvolvido por [Rodrigo Abreu](https://github.com/rodrigodabreu)
