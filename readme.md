@@ -16,16 +16,36 @@ python -m venv venv
 source venv/bin/activate
 ```
 
+### Iniciando o proejeto
+
+```
+django-admin startproject setup .
+```
+
+### Criando app
+
+```
+python manage.py startapp escola
+```
+
 ### Instalando dependências
 
 ```
+
 pip install -r requirements.txt
+
 ```
 
 ### Rodando o projeto
 
 ```
+
 python manage.py runserver
+
 ```
 
 Desenvolvido por [Rodrigo Abreu](https://github.com/rodrigodabreu)
+
+```
+
+```
