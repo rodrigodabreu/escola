@@ -28,6 +28,12 @@ django-admin startproject setup .
 python manage.py startapp escola
 ```
 
+### Relacionando as dependências do projeto
+
+```
+pip freeze > requirements.txt
+```
+
 ### Instalando dependências
 
 ```
