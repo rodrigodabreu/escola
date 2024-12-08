@@ -21,7 +21,7 @@ class Estudante (models.Model):
 
 
 
-class Cursos(models.Model):
+class Curso(models.Model):
     NIVEL = (
         ('B', 'Básico'),
         ('I', 'Intermediário'),
