@@ -22,7 +22,7 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-### Iniciando o proejeto
+### Iniciando o projeto
 
 ```
 django-admin startproject setup .
